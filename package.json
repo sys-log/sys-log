@@ -1,0 +1,22 @@
+{
+  "name": "sys-log",
+  "version": "1.0.0",
+  "description": "sys-log",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sys-log/sys-log.git"
+  },
+  "author": "sys-log",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sys-log/sys-log/issues"
+  },
+  "homepage": "https://github.com/sys-log/sys-log#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
